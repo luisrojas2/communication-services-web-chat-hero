@@ -73,4 +73,4 @@ We appreciate your feedback and energy helping us improve our services. [Please 
 - [Azure Communication Services - UI Library](https://azure.github.io/communication-ui-library/) - To learn more about what the `@azure/communication-react` package offers.
 - [Azure Communication Chat SDK](https://docs.microsoft.com/en-us/azure/communication-services/concepts/chat/sdk-features) - To learn more about the chat web sdk
 - [FluentUI](https://developer.microsoft.com/en-us/fluentui#/) - Microsoft powered UI library
-- [React](https://reactjs.org/) - Library for building user interfaces
+- [React](https://reactjs.org/) - Library for building user interfaces 
