@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Azure-Samples/communication-services-web-chat-hero.git"
+    "url": "git+https://github.com/luisrojas2/communication-services-web-chat-hero.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Azure-Samples/communication-services-web-chat-hero/issues"
+    "url": "https://github.com/luisrojas2/communication-services-web-chat-hero/issues"
   },
-  "homepage": "https://github.com/Azure-Samples/communication-services-web-chat-hero#readme"
+  "homepage": "https://github.com/luisrojas2/communication-services-web-chat-hero#readme"
 }
